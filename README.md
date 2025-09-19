@@ -1,14 +1,1 @@
 # ad-vil.github.io
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>
-    <h1>My Name</h1>
-    <p>Welcome to my portfolio website! More to come soon.</p>
-</body>
-</html>
